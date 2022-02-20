@@ -27,12 +27,15 @@ nav {
 }
 
 /* fine heder */
+
 /* inizio main */
+/* titolo */
 .title {
   height: 50px;
   background-color: #abcfe7;
 }
 
+/* tabella di testo */
 .clearfix:after {
   content: "";
   display: table;
@@ -54,5 +57,12 @@ nav {
   border-top: #0384fb 14px solid;
   border-bottom: #0384fb 14px solid;
 }
+/* /fine main */
 
+/* inizio footer */
+.footer {
+  margin-top: 10px;
+  background-color: #8801fe;
+  height: 40px;
+}
 /* fine main */
